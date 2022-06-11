@@ -1,0 +1,9 @@
+1-Calculates the university fees of 20 students. You have to ask each student how many courses he will take then 
+calculate the total he had to pay if the course fee is 2000 EGP. 
+
+
+2.Takes from the user 100 positive numbers, then count how many odd and how many even numbers.
+Bonus: check that all entered numbers are positive.			
+
+
+3.Finds the smallest number from 50 integers taken from the user.
